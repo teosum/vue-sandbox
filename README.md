@@ -7,7 +7,7 @@
 
 ## Recommended IDE Setup
 
-* [VSCode](https://code.visualstudio.com/)
+* [VSCode](https://code.visualstudio.com/) v1.80.0 to fix node 18 + typescript formatting issues
 * [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
 * [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin)
 * Disable Vetur (still uses Vue 2 rules)
